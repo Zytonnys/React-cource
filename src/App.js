@@ -2,7 +2,9 @@
 import './App.css';
 
 function App() {
-  return (GamepadButton);
+  return (
+    Text
+  );
 }
 
 export default App;
